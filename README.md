@@ -1,2 +1,2 @@
 # canto
-redeem popular music that has problematic lyrics
+redeem popular music from problematic lyrics
